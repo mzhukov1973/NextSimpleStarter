@@ -1,15 +1,4 @@
-import { ADD_TODO, REMOVE_TODO } from './'
+import {ADD_TODO, REMOVE_TODO} from './'
 
-export function addTodo(text) {
-	return {
-		type: ADD_TODO,
-		text
-	}
-}
-
-export function removeTodo(todo) {
-	return {
-		type: REMOVE_TODO,
-		todo
-	}
-}
+export const addTodo    = text => ({type:ADD_TODO,    text})
+export const removeTodo = todo => ({type:REMOVE_TODO, todo})
