@@ -5,6 +5,11 @@
   "repository": "https://github.com/mzhukov1973/NextSimpleStarter/tree/mzhukov1973-tests",
   "license": "MIT",
   "author": "Maxim Zhukov <mzhukov31415dev@gmail.com> (https://github.com/mzhukov1973)",
+  "contributors": [
+    "Ademola <ooade96@gmail.com> (https://ademola.adegbuyi.me)",
+    "Ionut-Cristian Florescu <ionut.florescu@gmail.com> (https://www.linkedin.com/in/icflorescu)",
+    "Maxim Zhukov <mzhukov31415dev@gmail.com> (https://github.com/mzhukov1973)"
+  ],
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "next": "^9.0.0",
